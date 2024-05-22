@@ -67,6 +67,7 @@ function App() {
     { id: 27,categoria: ' Hombre ' ,name: ' Morphsuits ', description: ' Disfraz oficial de Morphsuit: Morphsuits, tampoco sabemos lo que es, pero es espeluznante. Eso es todo lo que necesitas saber ', price: 19.75, imageUrl: [' https://m.media-amazon.com/images/I/61g7JfSdWDL._AC_SX569_.jpg ' ]},
 ]);
 
+//console.log(products);
 
 //console.log(products);
 //console.log(products);
