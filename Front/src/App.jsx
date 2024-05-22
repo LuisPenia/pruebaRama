@@ -70,6 +70,8 @@ function App() {
 //console.log(products);
 
 //console.log(products);
+
+//console.log(products);
 //console.log(products);
 const handleAddProduct = (newProduct) => {
 console.log('Nuevo producto:', newProduct);
