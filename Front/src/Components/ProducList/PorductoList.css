@@ -1,0 +1,6 @@
+.product-grid  { 
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Dos columnas de ancho igual */
+    grid-gap: 20px; /* Espacio entre las tarjetas */
+  }

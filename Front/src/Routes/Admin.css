@@ -1,0 +1,60 @@
+.adm-div {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  min-height: 70vh;
+  width: 100%;
+}
+
+.adm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  margin-right: 380px;
+  margin-bottom: 200px;
+}
+
+.adm-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
+  .adm button{
+    height: 40px;
+    width: 420px;
+    background-color: #774c81;
+    color: #f8c458;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+
+  .adm button :hover{
+    box-shadow: 0 12px 14px rgba(0, 0, 0, 0.1);
+  }
+
+  .adm-search{
+    color: #774c81;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+.adm-search input{
+    background-color: #F6E8ED;
+    color:#774c81;
+    width: 400px;
+    height: 35px;
+    border-radius: 25px;
+    padding-left: 10px;
+}
+
+.adm-search ::placeholder{
+    color: #774c81;
+}
+
